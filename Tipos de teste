@@ -1,0 +1,6 @@
+Teste funcional: Essa técnica testa os requisitos funcionais, as funções e os casos de uso.
+
+Teste regressivo: Tem como objetivo rodar testes de funcionalidades que já funcionavam anteriormente, relacionando-as com as atualizações realizadas no software.
+
+Teste exploratório: Esse tipo de teste de software exige experiência do testador / analista de testes. É a técnica que busca empregar todo o conhecimento prévio do testador em busca de novas falhas.
+
