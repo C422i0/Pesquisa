@@ -1,0 +1,25 @@
+Appium: Esta ferramenta de teste de software é open source e pode auxiliar em praticamente todas as linguagens de programação.
+Também pode operar testes em aplicações nativas, híbridas ou até mesmo multiplataforma. 
+Outra vantagem dela é a automatização de testes simultâneos para os sistemas iOS e Android. Ainda, pode ser conectada à nuvem ou a um servidor local. 
+
+Robotium: Este possui testes focados em sistemas Android e tem código aberto.
+Possui alta performance e é voltado para testes de interface gráfica. 
+Além de ser compatível com Gradle, Ant e Maven, auxilia na escrita de automação de testes, de delays e de timings.
+
+Selenium: É a ferramenta de teste mais conhecida do mercado por ser open source. 
+É versátil e pode ser utilizada em aplicações voltadas para web nas plataformas e browsers Linux, Mac e Windows.
+É compatível com diversas linguagens de programação:
+Java;
+Ruby;
+PHP;
+Python;
+C#;
+Groovy.
+
+Telerik TestStudio: Esta é a mais abrangente das ferramentas de teste de software.
+Além de oferecer vários tipos de testes, pode ser aplicada a diversas plataformas e a variadas linguagens.
+Ainda, sua licença é comercial e tem possibilidade de integração com uma gama de sistemas e ferramentas para detectar erros. 
+
+WatiR: Ferramenta de código aberto para Ruby, pode ser utilizada para automatizar testes em aplicações para todos os navegadores.
+Pode ser usada para testes em links, formulários, botões e tempo de respostas.
+Entre as principais vantagens está a possibilidade de testes cross-browser e a compatibilidade com outras ferramentas.
