@@ -1,0 +1,12 @@
+Teste de Caixa Branca: Dentre as técnicas de teste de software, esta utiliza o código-fonte do sistema com a finalidade de analisar os componentes.
+É também chamado de teste estrutural pois analisa o fluxo de dados, a qualidade da estruturação deste código, segurança, complexidade da manutenção, entre outros. 
+
+Teste de Caixa Preta: Também conhecido como teste funcional, analisa os requisitos do sistema, ou seja, se o software cumpre as funções que deve executar.
+Tais funcionalidades e ações foram previamente definidas na etapa de especificação de requisitos. 
+É importante lembrar que não existe contato com o código-fonte neste tipo de teste. Assim, o que é validado é o resultado, através da exploração da ferramenta. 
+
+Teste de Caixa Cinza: A técnica de teste de Caixa Cinza junta a Caixa Branca e a Caixa Preta.
+Dessa forma, são submetidos a análise tanto a estrutura do código-fonte quanto o cumprimento das funções do sistema. 
+A finalidade de utilizar a Caixa Cinza é buscar por erros que o sistema pode apresentar.
+A forma com que é feita é denominada de engenharia reversa.
+Ainda, tem a finalidade de compreender o que gerou as falhas e erros do sistema para posteriormente serem ajustados.
